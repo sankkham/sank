@@ -1,0 +1,126 @@
+*********************************************
+
+[RemoteTestNG] detected TestNG version 7.5.0
+SLF4J: Failed to load class "org.slf4j.impl.StaticLoggerBinder".
+SLF4J: Defaulting to no-operation (NOP) logger implementation
+SLF4J: See http://www.slf4j.org/codes.html#StaticLoggerBinder for further details.
+Test cases Started and results are: verify_with_no_solution
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 37286
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 12, 2022 3:14:46 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Error message is: You must select a solution before proceeding
+Test cases passed and results are: verify_with_no_solution
+Test cases Started and results are: verify_with_mobile
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 11462
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 12, 2022 3:14:57 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Values from radio buttons are======>>>>>>project-time
+Values from radio buttons are======>>>>>>time-bill
+Values from radio buttons are======>>>>>>wm
+Values from radio buttons are======>>>>>>time-attend
+Values from radio buttons are======>>>>>>to
+Values from radio buttons are======>>>>>>ett
+Values from radio buttons are======>>>>>>gtgp
+Values from radio buttons are======>>>>>>polaris-psa
+Values from radio buttons are======>>>>>>polaris-ppm
+Error message is: Please provide Phone # and Extension if any
+Test cases passed and results are: verify_with_mobile
+Test cases Started and results are: verify_with_mail
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 19517
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 12, 2022 3:15:08 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Values from radio buttons are======>>>>>>project-time
+Values from radio buttons are======>>>>>>time-bill
+Values from radio buttons are======>>>>>>wm
+Values from radio buttons are======>>>>>>time-attend
+Values from radio buttons are======>>>>>>to
+Values from radio buttons are======>>>>>>ett
+Values from radio buttons are======>>>>>>gtgp
+Values from radio buttons are======>>>>>>polaris-psa
+Values from radio buttons are======>>>>>>polaris-ppm
+Error message is: Please provide Your Work E-mail Address
+Test cases passed and results are: verify_with_mail
+Test cases Started and results are: verify_with_fullname
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 39249
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 12, 2022 3:15:16 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Values from radio buttons are======>>>>>>project-time
+Values from radio buttons are======>>>>>>time-bill
+Values from radio buttons are======>>>>>>wm
+Values from radio buttons are======>>>>>>time-attend
+Values from radio buttons are======>>>>>>to
+Values from radio buttons are======>>>>>>ett
+Values from radio buttons are======>>>>>>gtgp
+Values from radio buttons are======>>>>>>polaris-psa
+Values from radio buttons are======>>>>>>polaris-ppm
+Error message is: Please provide Your Full Name
+Test cases passed and results are: verify_with_fullname
+Test cases Started and results are: verify_with_company
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 3789
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 12, 2022 3:15:27 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Values from radio buttons are======>>>>>>project-time
+Values from radio buttons are======>>>>>>time-bill
+Values from radio buttons are======>>>>>>wm
+Values from radio buttons are======>>>>>>time-attend
+Values from radio buttons are======>>>>>>to
+Values from radio buttons are======>>>>>>ett
+Values from radio buttons are======>>>>>>gtgp
+Values from radio buttons are======>>>>>>polaris-psa
+Values from radio buttons are======>>>>>>polaris-ppm
+Error message is: Please provide Name of your Business
+Test cases passed and results are: verify_with_company
+Test cases Started and results are: verify_with_solution
+Starting ChromeDriver 105.0.5195.52 (412c95e518836d8a7d97250d62b29c2ae6a26a85-refs/branch-heads/5195@{#853}) on port 45832
+Only local connections are allowed.
+Please see https://chromedriver.chromium.org/security-considerations for suggestions on keeping ChromeDriver safe.
+ChromeDriver was started successfully.
+Sep 12, 2022 3:15:37 AM org.openqa.selenium.remote.ProtocolHandshake createSession
+INFO: Detected dialect: W3C
+Values from radio buttons are======>>>>>>project-time
+Values from radio buttons are======>>>>>>time-bill
+Values from radio buttons are======>>>>>>wm
+Values from radio buttons are======>>>>>>time-attend
+Values from radio buttons are======>>>>>>to
+Values from radio buttons are======>>>>>>ett
+Values from radio buttons are======>>>>>>gtgp
+Values from radio buttons are======>>>>>>polaris-psa
+Values from radio buttons are======>>>>>>polaris-ppm
+Test cases passed and results are: verify_with_solution
+PASSED: verify_with_mobile
+PASSED: verify_with_mail
+PASSED: verify_with_company
+PASSED: verify_with_fullname
+PASSED: verify_with_no_solution
+PASSED: verify_with_solution
+
+===============================================
+    Default test
+    Tests run: 6, Failures: 0, Skips: 0
+===============================================
+
+Test cases finished and resuts are: Default test
+
+===============================================
+Default suite
+Total tests run: 6, Passes: 6, Failures: 0, Skips: 0
+===============================================
+
+
+
+******************************************
