@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="6" passed="6" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2022-09-12T03:14:42 IST" name="Default suite" finished-at="2022-09-12T03:15:46 IST" duration-ms="63510">
+    <groups>
+    </groups>
+    <test started-at="2022-09-12T03:14:42 IST" name="Default test" finished-at="2022-09-12T03:15:46 IST" duration-ms="63510">
+      <class name="listeners.practic">
+        <test-method signature="verify_with_no_solution()[pri:1, instance:listeners.practic@6253c26]" started-at="2022-09-12T03:14:42 IST" name="verify_with_no_solution" finished-at="2022-09-12T03:14:56 IST" duration-ms="13644" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_with_no_solution -->
+        <test-method signature="verify_with_mobile()[pri:2, instance:listeners.practic@6253c26]" started-at="2022-09-12T03:14:56 IST" name="verify_with_mobile" finished-at="2022-09-12T03:15:07 IST" duration-ms="11018" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_with_mobile -->
+        <test-method signature="verify_with_mail()[pri:3, instance:listeners.practic@6253c26]" started-at="2022-09-12T03:15:07 IST" name="verify_with_mail" finished-at="2022-09-12T03:15:15 IST" duration-ms="8179" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_with_mail -->
+        <test-method signature="verify_with_fullname()[pri:4, instance:listeners.practic@6253c26]" started-at="2022-09-12T03:15:15 IST" name="verify_with_fullname" finished-at="2022-09-12T03:15:26 IST" duration-ms="10840" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_with_fullname -->
+        <test-method signature="verify_with_company()[pri:5, instance:listeners.practic@6253c26]" started-at="2022-09-12T03:15:26 IST" name="verify_with_company" finished-at="2022-09-12T03:15:36 IST" duration-ms="9958" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_with_company -->
+        <test-method signature="verify_with_solution()[pri:6, instance:listeners.practic@6253c26]" started-at="2022-09-12T03:15:36 IST" name="verify_with_solution" finished-at="2022-09-12T03:15:46 IST" duration-ms="9786" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verify_with_solution -->
+      </class> <!-- listeners.practic -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
