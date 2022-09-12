@@ -10,3 +10,5 @@ C:\Users\acer\eclipse-workspace\com.test\chromedriver_win32
 
 ### Check code in following path: 
 com.test\src\test\java\listeners\practic.java
+
+#### Also you can check console output of this code in output file
